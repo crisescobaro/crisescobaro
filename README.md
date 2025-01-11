@@ -54,6 +54,7 @@ Soy Un Estudiante actualmente estoy estudiando en **Henry**, me apasiona mucho c
 
 ## Conéctate conmigo 🌍
 
-- [GitHub](https://github.com/crisescobaro) 
-- [LinkedIn]([https://www.linkedin.com/in/cristian-escobar-89a577200?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app](https://www.linkedin.com/in/crisescobaro/))
+- [GitHub](https://github.com/crisescobaro)
+- [LinkedIn](https://www.linkedin.com/in/crisescobaro/)
+
 
