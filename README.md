@@ -16,10 +16,10 @@
 Soy Un Estudiante actualmente estoy estudiando en **Henry**, me apasiona mucho codear la resolución de problemas mi meta principal es graduarme y mi lema siempre va ser:  **Si Puedes Imaginarlo Puedes Programarlo**
 
 - **Por ahora estas son las tecnologias que estoy usando:**
-  - **Frontend:** React JS, Css, Bootstrap
-  - **Backend:** Node.js, 
-  - **Bases de Datos:** SQL, MongoDB
-  - **Herramientas y otros:** Git, 
+  - **Frontend:** Javascript, Typescript, React JS, Css, Bootstrap, Tailwindcss, Next JS
+  - **Backend:** Node.js, Express 
+  - **Bases de Datos:** SQL, MongoDB, PostgreSQL
+  - **Herramientas y otros:** Git, Vercel, Netlify, Railway
 
 ---
 
@@ -30,6 +30,17 @@ Soy Un Estudiante actualmente estoy estudiando en **Henry**, me apasiona mucho c
   <img src="https://img.shields.io/badge/-NodeJS-%23339933?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
   <img src="https://img.shields.io/badge/-SQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/-Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-Typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
+  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/-Next.js-%23000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/-Express-%23000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/-MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/-Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/-Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/-Railway-%2300A86B?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
 </p>
 
 ---
@@ -37,7 +48,7 @@ Soy Un Estudiante actualmente estoy estudiando en **Henry**, me apasiona mucho c
 ## Proyectos Destacados 🚧
 
 1. **Sitio web de peliculas**: Utilizando las tecnologias logre crear una pagina web de entretenimiento con su respectivo **Frontend** y su **Backend** .
-1. **Sitio web de Descargas para juegos de PC**: logre crear una pagina muy sencilla donde todos pueden descargar sus videojuegos favoritos . 
+2. **Sitio web de Descargas para juegos de PC**: Logré crear una página muy sencilla donde todos pueden descargar sus videojuegos favoritos. 
 
 ---
 
@@ -45,3 +56,4 @@ Soy Un Estudiante actualmente estoy estudiando en **Henry**, me apasiona mucho c
 
 - [GitHub](https://github.com/crisescobaro) 
 - [LinkedIn](https://www.linkedin.com/in/cristian-escobar-89a577200?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
