@@ -16,7 +16,7 @@
 Soy Un Estudiante actualmente estoy estudiando en **Henry**, me apasiona mucho codear la resolución de problemas mi meta principal es graduarme y mi lema siempre va ser:  **Si Puedes Imaginarlo Puedes Programarlo**
 
 - **Por ahora estas son las tecnologias que estoy usando:**
-  - **Frontend:** Javascript, Typescript, React JS, Css, Bootstrap, Tailwindcss, Next JS
+  - **Frontend:** Javascript, Typescript, React JS, Css, Bootstrap, Tailwindcss, Next JS, Vite JS
   - **Backend:** Node.js, Express 
   - **Bases de Datos:** SQL, MongoDB, PostgreSQL
   - **Herramientas y otros:** Git, Vercel, Netlify, Railway
@@ -41,6 +41,8 @@ Soy Un Estudiante actualmente estoy estudiando en **Henry**, me apasiona mucho c
   <img src="https://img.shields.io/badge/-Vercel-%23000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
   <img src="https://img.shields.io/badge/-Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/-Railway-%2300A86B?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+  <img src="https://img.shields.io/badge/-Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite.js" />
+
 </p>
 
 ---
