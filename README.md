@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola!  Soy Cristian Escobar 👋</h1>
-<h3 align="center">Full Stack Developer En Proceso</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%230077B5.svg?style=for-the-badge&logo=developer&logoColor=white"/>
@@ -13,7 +13,7 @@
 
 ## Acerca de mí 🚀
 
-Soy Un Estudiante actualmente estoy estudiando en **Henry**, me apasiona mucho codear la resolución de problemas mi meta principal es graduarme y mi lema siempre va ser:  **Si Puedes Imaginarlo Puedes Programarlo**
+mi meta principal es graduarme y mi lema siempre va ser:  **Si Puedes Imaginarlo Puedes Programarlo**
 
 - **Por ahora estas son las tecnologias que estoy usando:**
   - **Frontend:** Javascript, Typescript, React JS, Css, Bootstrap, Tailwindcss, Next JS, Vite JS
