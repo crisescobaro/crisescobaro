@@ -13,7 +13,7 @@
 
 ## Acerca de mí 🚀
 
-mi meta principal es graduarme y mi lema siempre va ser:  **Si Puedes Imaginarlo Puedes Programarlo**
+
 
 - **Por ahora estas son las tecnologias que estoy usando:**
   - **Frontend:** Javascript, Typescript, React JS, Css, Bootstrap, Tailwindcss, Next JS, Vite JS
