@@ -11,16 +11,6 @@
 
 ---
 
-## Acerca de mí 🚀
-
-
-
-- **Por ahora estas son las tecnologias que estoy usando:**
-  - **Frontend:** Javascript, Typescript, React JS, Css, Bootstrap, Tailwindcss, Next JS, Vite JS
-  - **Backend:** Node.js, Express 
-  - **Bases de Datos:** SQL, MongoDB, PostgreSQL
-  - **Herramientas y otros:** Git, Vercel, Netlify, Railway
-
 ---
 
 ## Tecnologías y Herramientas 💻
@@ -46,11 +36,6 @@
 </p>
 
 ---
-
-## Proyectos Destacados 🚧
-
-1. **Sitio web de peliculas**: Utilizando las tecnologias logre crear una pagina web de entretenimiento con su respectivo **Frontend** y su **Backend** .
-2. **Sitio web de Descargas para juegos de PC**: Logré crear una página muy sencilla donde todos pueden descargar sus videojuegos favoritos. 
 
 ---
 
