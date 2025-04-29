@@ -34,8 +34,12 @@
   <img src="https://img.shields.io/badge/-Netlify-%23000000?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
   <img src="https://img.shields.io/badge/-Railway-%2300A86B?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
   <img src="https://img.shields.io/badge/-Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite.js" />
-
+  <img src="https://img.shields.io/badge/-Redux-%23764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+  <img src="https://img.shields.io/badge/-XAMPP-%23FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
+  <img src="https://img.shields.io/badge/-GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 </p>
+
 
 ---
 
