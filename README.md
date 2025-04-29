@@ -5,9 +5,11 @@
   <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%230077B5.svg?style=for-the-badge&logo=developer&logoColor=white"/>
 </p>
 
+
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGliNGs0N2lhMHJ5d2o4NGgyNWtnNDR4bnV3eG4wc2xuMnRzcnVtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LndNjzSh7eaXfkugNC/giphy.gif" width="300"/>
 </p>
+
 
 ---
 
