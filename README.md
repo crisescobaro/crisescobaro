@@ -2,13 +2,11 @@
 <h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">!
-
-  [TC INGENIERIA BANNER1](https://github.com/user-attachments/assets/f304811b-ab93-4baa-8e1a-619d03ecbd74)
 </p>
 
 
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGliNGs0N2lhMHJ5d2o4NGgyNWtnNDR4bnV3eG4wc2xuMnRzcnVtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LndNjzSh7eaXfkugNC/giphy.gif" width="300"/>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/162354998/441792364-f304811b-ab93-4baa-8e1a-619d03ecbd74.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250508T160917Z&X-Amz-Expires=300&X-Amz-Signature=e2fb31870a2ef5fc6faed62a39e4e19325b997204713933d9300ef289b35f729&X-Amz-SignedHeaders=host" width="300"/>
 </p>
 
 
