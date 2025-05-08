@@ -1,8 +1,9 @@
 <h1 align="center">¡Hola!  Soy Cristian Escobar 👋</h1>
 <h3 align="center">Full Stack Web Developer</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%230077B5.svg?style=for-the-badge&logo=developer&logoColor=white"/>
+<p align="center">!
+
+  [TC INGENIERIA BANNER1](https://github.com/user-attachments/assets/f304811b-ab93-4baa-8e1a-619d03ecbd74)
 </p>
 
 
