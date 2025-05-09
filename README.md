@@ -75,5 +75,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/crisescobaro/)
 - [Tik Tok](https://www.tiktok.com/@escobar___dev?_t=ZS-8w90J3g7XFQ&_r=1)
+- [Gmail](mailto:cristianfelipeescobar673@gmail.com)
+
 
 
