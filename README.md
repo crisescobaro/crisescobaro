@@ -12,9 +12,7 @@
 
 
 ---
-<p align="center">
-<img src="https://media.tenor.com/Kjucnm6ZrI0AAAAM/later-later-dude.gif" width="200"/>
-</p>
+
 ---
 
 ## Tecnologías y Herramientas 💻
@@ -70,7 +68,9 @@
 
 
 ---
-
+<p align="center">
+<img src="https://media.tenor.com/Kjucnm6ZrI0AAAAM/later-later-dude.gif" width="200"/>
+</p>
 ---
 
 ## Conéctate conmigo 🌍
