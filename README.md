@@ -72,7 +72,6 @@
 <img src="https://media.tenor.com/Kjucnm6ZrI0AAAAM/later-later-dude.gif" width="200"/>
 </p>
 ---
----
 
 ## Conéctate conmigo 🌍
 
