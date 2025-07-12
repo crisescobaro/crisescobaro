@@ -6,9 +6,7 @@
 </p>
 
 
-<p align="center">
-  <img src="https://i.imgur.com/ZZCt0fX.jpeg" width="800"/>
-</p>
+
 
 
 
