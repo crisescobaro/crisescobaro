@@ -68,7 +68,7 @@
 
 ---
 <p align="center">
-<img src="https://media.tenor.com/Kjucnm6ZrI0AAAAM/later-later-dude.gif" width="200"/>
+<img src="[https://media.tenor.com/Kjucnm6ZrI0AAAAM/later-later-dude.gif](https://camo.githubusercontent.com/8bdafe03f9b1ac6666b020bef1c7a184e5f9b224a6385ee9d75c5deebf28fa2d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6949716d4d3574546a6d704f42396d70626e2f67697068792e676966)" width="200"/>
 </p>
 
 
