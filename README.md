@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola!  Soy Cristian Escobar 👋</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web & Mobile Developer</h3>
 
 <p align="center">
   Soy un desarrollador Full Stack especializado en la creación de aplicaciones multiplataforma, desde el diseño de interfaces (UI/UX) hasta la implementación de lógica en el servidor. Tengo experiencia en bases de datos, despliegue en la nube e Inteligencia Artificial, asegurando un rendimiento óptimo y una experiencia de usuario fluida.
